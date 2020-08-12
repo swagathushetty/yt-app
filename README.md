@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## web app
+https://youtube-client-react.netlify.app/
+
+documentation
+https://www.notion.so/youtube-app-67f77fb115974d16ac97dba6607569cb
+
+
 ## Available Scripts
 
 In the project directory, you can run:
